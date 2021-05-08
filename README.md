@@ -10,4 +10,4 @@ get sid, auth token and generate a number for trial, they will give you $15 for 
  5. python manage.py migrate
  6. python manage.py runserver 
  
- Enjoy ! Don't forget to use your token number and sid that you get from twilio.
+ Enjoy ! Don't forget to use your token number and sid that you get from twilio. change verification/utils.py this.
